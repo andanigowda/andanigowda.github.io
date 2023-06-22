@@ -4,36 +4,132 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Spring Boot",
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Keycloak",
+        "icon": "https://img.icons8.com/color/48/000000/keycloak.png"
+    },
+    {
+        "name": "Spark",
+        "icon": "https://img.icons8.com/color/48/000000/spark-logo.png"
+    },
+    {
+        "name": "EhCache",
+        "icon": "https://img.icons8.com/color/48/000000/data-configuration.png"
+    },
+    {
+        "name": "OAuth 2.0",
+        "icon": "https://img.icons8.com/ios-filled/48/4a90e2/oauth.png"
+    },
+    {
+        "name": "Tomcat/Wildfly",
+        "icon": "https://img.icons8.com/color/48/000000/tomcat.png"
+    },
+    {
+        "name": "AMQueue",
+        "icon": "https://img.icons8.com/color/48/000000/message-queue.png"
+    },
+    {
+        "name": "Elastic",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/elastic.png"
+    },
+    {
+        "name": "Zipkin",
+        "icon": "https://img.icons8.com/color/48/000000/zipkin.png"
+    },
+    {
+        "name": "Spring Frameworks",
         "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
     },
     {
-        "name": "Java Persistence API (JPA)",
+        "name": "JPA",
         "icon": "https://img.icons8.com/color/48/000000/database-structure.png"
     },
     {
-        "name": "Spring Batch",
-        "icon": "https://img.icons8.com/color/48/000000/spring-batch.png"
-    },
-    {
-        "name": "Spring Integration",
-        "icon": "https://img.icons8.com/color/48/000000/integration.png"
-    },
-    {
-        "name": "Spring Security",
-        "icon": "https://img.icons8.com/color/48/000000/security-checked.png"
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/000000/spring-boot.png"
     },
     {
         "name": "Angular",
         "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
     },
     {
-        "name": "Keycloak",
-        "icon": "https://img.icons8.com/color/48/000000/keycloak.png"
+        "name": "Spring Security",
+        "icon": "https://img.icons8.com/color/48/000000/security-checked.png"
+    },
+    {
+        "name": "Spring Integration",
+        "icon": "https://img.icons8.com/color/48/000000/integration.png"
+    },
+    {
+        "name": "Spring Batch",
+        "icon": "https://img.icons8.com/color/48/000000/spring-batch.png"
+    },
+    {
+        "name": "Config-server",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/configuration.png"
+    },
+    {
+        "name": "Auth-server",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/authentication.png"
+    },
+    {
+        "name": "Gateway-server",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/api.png"
+    },
+    {
+        "name": "Eureka",
+        "icon": "https://img.icons8.com/color/48/000000/eureka.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JS",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
 
     {
-        "name": "Ehcache",
-        "icon": "https://img.icons8.com/color/48/000000/data-configuration.png"
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "JUnit",
+        "icon": "https://img.icons8.com/color/48/000000/junit.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "Sleuth",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/eye-scan.png"
+    },
+    {
+        "name": "Scrum",
+        "icon": "https://img.icons8.com/color/48/000000/scrum.png"
+    },
+    {
+        "name": "Agile",
+        "icon": "https://img.icons8.com/color/48/000000/agile.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
     }
 ]
