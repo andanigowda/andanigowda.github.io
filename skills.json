@@ -1,5 +1,9 @@
 [
     {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
         "name": "Spring Boot",
         "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
     },
@@ -27,10 +31,7 @@
         "name": "Keycloak",
         "icon": "https://img.icons8.com/color/48/000000/keycloak.png"
     },
-    {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
+
     {
         "name": "Ehcache",
         "icon": "https://img.icons8.com/color/48/000000/data-configuration.png"
