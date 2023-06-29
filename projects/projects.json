@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "NewsBox Android",
+    "name": "EcoEcom",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
     "image": "newsboxandroid",
     "category": "android",
